@@ -4,4 +4,4 @@ AzloTaken/AzloTaken is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<code>Python, JavaScript, HTML/CSS.</code>
+<code color="lightblue">Python, JavaScript, HTML/CSS.</code>
